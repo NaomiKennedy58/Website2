@@ -1,0 +1,18 @@
+:root{font-size: 30px;}
+
+h3{font-size: 1.3rem;
+color:blueviolet;
+padding:1em;}
+
+h1 {font-size: 2rem;
+}
+
+.container{display: grid;
+grid-template-columns: 300px 100px 100px;
+grid-template-rows: auto;}
+
+.ringbearer{font-size: 2em;}
+
+.Maiar{color:crimson;}
+
+.hobbit{color:brown;}
